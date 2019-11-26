@@ -52,8 +52,8 @@ chmod +x ./UnitTests-WebViewer
 mkdir ~/UnitTests
 cd ~/UnitTests
 ../UnitTests-DicomWeb
-../UnitTests-PostgreSQL
-../UnitTests-MySQL
+#../UnitTests-PostgreSQL
+#../UnitTests-MySQL
 ../UnitTests-Transfers
 ../UnitTests-WebViewer
 
